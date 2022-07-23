@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ozan</h1>
 
-<!--
-**sahinozan/sahinozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 23 years old Senior Computer Engineering student at the Izmir University of Economics. I'm working as Software Engineering Intern at GBot Software Consultancy. I'm currently studying Machine Learning theory and Advanced Mathematics. At the same time, I'm applying these theories to real-life problems by programming. I will be expanding my stack with Tensorflow, AWS, and Docker. My goal is to become a Machine Learning Engineer in the future.
 
-Here are some ideas to get you started:
+## 🔨 Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+- Python (Advanced)
+- Dart/Flutter (Intermediate)
+- Java (Intermediate)
+- JavaScript/TypeScript (Beginner-Intermediate)
+
+Python Stack:
+- Data Science: Numpy, Pandas, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn
