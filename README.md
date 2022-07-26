@@ -15,3 +15,4 @@ Python Stack:
 - Data Science: Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn
 - Web Scraping: BeautifulSoup
+- Testing: Pytest
