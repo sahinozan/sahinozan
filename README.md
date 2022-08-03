@@ -14,5 +14,5 @@ Languages:
 Python Stack:
 - Data Science: Numpy, Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn
-- Web Scraping: BeautifulSoup
+- Web Scraping: BeautifulSoup, Requests
 - Testing: Pytest
