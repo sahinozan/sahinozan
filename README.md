@@ -12,7 +12,7 @@ Languages:
 - TypeScript/JavaScript (Beginner-Intermediate)
 
 Python Stack:
-- Data Science: Numpy, Pandas, Matplotlib, Seaborn
+- Data Science: Numpy, Pandas, Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn
 - Web Scraping: BeautifulSoup, Requests
 - Testing: Pytest
