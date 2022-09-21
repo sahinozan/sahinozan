@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ozan</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="50px" height="50px"/>, I'm Ozan</h1>
+
 
 I'm a 23 years old Senior Computer Science student who lives in Izmir, Turkey. I'm working as Software Engineering Intern. I'm currently studying Machine Learning and Advanced Mathematics. At the same time, I'm applying these theories to real-life problems by programming. I will be expanding my stack with Tensorflow, Keras, AWS, and Docker. My goal is to become a Machine Learning Engineer in the future.
 
-## 🔨 Stack 
+<h2>🔨 Stack</h2> 
 
 Languages:
 - Python (Advanced)
