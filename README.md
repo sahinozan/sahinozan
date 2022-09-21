@@ -5,20 +5,13 @@ I'm a 23 years old Senior Computer Science student who lives in Izmir, Turkey. I
 
 <h2>🔨 Stack</h2> 
 
-Languages:
-- Python (Advanced)
-- Flutter/Dart (Intermediate)
-- Java (Intermediate)
-- MySQL (Intermediate)
-- TypeScript/JavaScript (Beginner-Intermediate)
-
 Python Stack:
 - Data Science: Numpy, Pandas, Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn
 - Web Scraping: BeautifulSoup, Requests
 - Testing: Pytest
 
-### Language Stack
+<h3>Language Stack</h3>
 
 <p align="center-left">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-python.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
@@ -29,13 +22,12 @@ Python Stack:
   <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-postgresql.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
 </p>
 
-### Python Stack
+<h3>Python Stack</h3>
 
 <p align="center-left">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-python.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
-  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-java.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-dart.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-javascript.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-typescript.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
-  <img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/96px-icons/96px-postgresql.svg" width="72" height="72" style="vertical-align:down; margin:4px"/>
+	<img title="Numpy" alt="Numpy" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/Python-Stack-Icons/numpy.svg" width="72" height="72" style="vertical-align:middle; "/>
+  <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/Python-Stack-Icons/pandas.svg" width="72" height="72" style="vertical-align:middle; "/>
+	<img title="Matplotlib" alt="Matplotlib" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/Python-Stack-Icons/matplotlib.svg" width="72" height="72" style="vertical-align:middle; "/>
+	<img title="Seaborn" alt="Seaborn" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/Python-Stack-Icons/seaborn.svg" width="90" height="72" style="vertical-align:middle; "/>
+	<img title="Scikit-learn" alt="Scikit-learn" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/Python-Stack-Icons/sklearn.svg" width="120" height="72" style="vertical-align:middle; "/>
 </p>
