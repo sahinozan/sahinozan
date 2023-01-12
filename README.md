@@ -27,5 +27,5 @@ I'm a 23 years old Senior Computer Science student who lives in Izmir, Turkey. I
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahinozan&show_icons=true&theme=synthwave&count_private=true&hide_title=true&card_width=400" alt="Github Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahinozan&show_icons=true&theme=synthwave&count_private=true&hide_title=true&card_width=400" alt="Github Stats"/>
 </p>
