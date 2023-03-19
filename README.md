@@ -26,6 +26,8 @@ I'm a 23 years old Senior Computer Science student who lives in Izmir, Turkey. I
 	<img title="Scikit-learn" alt="Scikit-learn" src="https://raw.githubusercontent.com/sahinozan/sahinozan/main/Python-Stack-Icons/sklearn.svg" width="120" height="72" style="vertical-align:down; margin:4px"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahinozan&show_icons=true&theme=synthwave&count_private=true&hide_title=true&card_width=400" alt="Github Stats"/>
 </p>
+--!>
