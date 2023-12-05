@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="50px" height="50px"/>, I'm Ozan</h1>
 
 
-I'm a 23 years old Senior Computer Science student who lives in Izmir, Turkey. I'm working as a Software Engineering Intern. I'm currently studying Machine Learning and Advanced Mathematics. At the same time, I'm applying these theories to real-life problems by programming. I will be expanding my stack with Tensorflow, Keras, AWS, and Docker. 
+I'm a 24 years old Data Scientist Candidate who lives in Izmir, Turkey. I'm currently studying Machine Learning and Natural Language Processing. My goal is to use my theoretical knowledge to solve real-life problems by applying them via programming. Most recently started mastering both TensorFlow and PyTorch.
 
 
 <h3 align="center">🔨 Language Stack</h3>
